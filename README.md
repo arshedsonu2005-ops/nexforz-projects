@@ -1,21 +1,21 @@
 # nexforz-projects
-# 📱 Contact Manager (Python)
+# Contact Manager (Python)
 
 A simple **Contact Manager application** built using **Python** and **Pickle**.  
 This program lets you **add**, **view**, and **delete** contacts — all saved in a binary file for persistence.  
 
 ---
 
-## 🌟 Features
+## Features
 
-- ✅ Add new contacts with validation  
-- 👀 View all saved contacts  
-- ❌ Delete existing contacts  
-- 💾 Store data permanently using the `pickle` module  
+- Add new contacts with validation  
+- View all saved contacts  
+- Delete existing contacts  
+- Store data permanently using the `pickle` module  
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ### 1. Prerequisites
 Make sure you have **Python 3** installed on your system.  
